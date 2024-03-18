@@ -1,16 +1,8 @@
 #!/usr/bin/env ruby
 # git-messages
 
-# 20230816
-# 0.1.0
-
-# Notes:
-# 1. Initially taken from https://github.com/angular/angular/blob/master/CONTRIBUTING.md.
-# 2. Updated with https://www.conventionalcommits.org/en/v1.0.0/#specification, which adds 'chore:'.
-
-# Changes:
-# -/0: + chore:
-# 1. ~ messages: + chore:
+# 20240318
+# 0.2.0
 
 messages = <<-MESSAGES
 build: Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)
